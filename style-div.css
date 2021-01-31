@@ -1,0 +1,16 @@
+.contenedor {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.cont-imagen {
+	padding-right: 10px;
+}
+
+.general {
+	border: 1px solid blue;
+	width: 600px;
+	margin-bottom: 10px;
+	padding: 12px;
+}
